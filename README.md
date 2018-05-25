@@ -1,2 +1,1 @@
 # Graphicizer
-# Graphicizer
